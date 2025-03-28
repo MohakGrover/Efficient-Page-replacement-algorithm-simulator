@@ -52,7 +52,7 @@ This simulator demonstrates how different page replacement algorithms work in op
 - More complex to implement in hardware
 
 
-### Optimal
+### OPT (Optimal Page Replacement)
 
 - Replaces the page that won't be used for the longest time in the future
 
@@ -63,7 +63,7 @@ This simulator demonstrates how different page replacement algorithms work in op
 - Used as a benchmark to compare other algorithms
 
   
-### Clock (Second Chance)
+### Clock Algorithm (Second Chance)
 
 - Approximates LRU with lower overhead
 
