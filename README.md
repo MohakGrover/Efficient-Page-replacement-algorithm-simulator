@@ -84,7 +84,7 @@ This project is built with Next.js and can be installed using npm:
 
 # Clone the repository
 
-git clone https://github.com/yourusername/page-replacement-simulator.git
+git clone https://github.com/MohakGrover/Efficient-Page-replacement-algorithm-simulator
 
   
 
